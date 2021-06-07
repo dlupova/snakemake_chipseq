@@ -1,0 +1,6 @@
+channels:
+ - defaults
+ - bioconda
+dependencies:
+ - bowtie2==2.4.3=py38h72fc82f_0
+ - samtools==1.11
